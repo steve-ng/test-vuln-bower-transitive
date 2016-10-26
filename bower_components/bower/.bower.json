@@ -1,0 +1,30 @@
+{
+  "name": "bower",
+  "authors": [
+    "Steve Ng <steveng.1988@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/steve-ng/test-vuln-bower",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.3.0"
+  },
+  "_release": "bbfa3730e4",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "bbfa3730e45c23f2286939702848abca6fd065c2"
+  },
+  "_source": "https://github.com/steve-ng/test-vuln-bower.git",
+  "_target": "*",
+  "_originalSource": "test-vuln-bower",
+  "_direct": true
+}

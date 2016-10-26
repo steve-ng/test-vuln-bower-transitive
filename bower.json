@@ -1,0 +1,20 @@
+{
+  "name": "bower-transitive",
+  "authors": [
+    "Steve Ng <steveng.1988@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bower": "test-vuln-bower#*"
+  }
+}
