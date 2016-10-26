@@ -26,6 +26,5 @@
   },
   "_source": "https://github.com/steve-ng/test-vuln-bower.git",
   "_target": "^1.0.0",
-  "_originalSource": "test-vuln-bower",
-  "_direct": true
+  "_originalSource": "test-vuln-bower"
 }
