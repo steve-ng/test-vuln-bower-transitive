@@ -15,10 +15,6 @@
     "tests"
   ],
   "dependencies": {
-    "bower": "test-vuln-bower#^1.0.0",
-    "angular": "1.4.12"
-  },
-  "resolutions": {
-    "angular": "1.4.12"
+    "bower": "test-vuln-bower#^1.0.0"
   }
 }
